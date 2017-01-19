@@ -1,8 +1,8 @@
 # เกี่ยวกับ Electron
 
-[Electron](http://electron.atom.io) เป็นโอเพ่นซอร์สไลบรารี พัฒนา โดย GitHub สำหรับการสร้างการใช้งานเดสก์ทอปข้ามแพลตฟอร์มกับ HTML, CSS และ JavaScript Electron เกิดขึ้นได้โดยการ่วม [Chromium](https://www.chromium.org/Home) กับ [Node.js](https://nodejs.org) เข้าด้วยกันเป็นหนึงruntimeและปพลิเคชันสามารถบรรจุสำหรับ Mac, Windows และ Linux
+[Electron](http://electron.atom.io) เป็นโอเพ่นซอร์สไลบรารีพัฒนา โดย GitHub สำหรับการสร้างการใช้งานเดสก์ทอปข้ามแพลตฟอร์มกับ HTML, CSS และ JavaScript Electron เกิดขึ้นได้โดยการร่วม [Chromium](https://www.chromium.org/Home) กับ [Node.js](https://nodejs.org) เข้าด้วยกันเป็นหนึง runtime และแอพพลิเคชั่นสามารถบรรจุสำหรับ Mac, Windows และ Linuxเป็น
 
-Electron began in 2013 as the framework on which [Atom](https://atom.io), GitHub's hackable text editor, would be built. The two were open sourced in the Spring of 2014.
+Electron ได้เกิดขึ้นในปี ค.ศ. 2013 ในฐานะของ framework ของ atom ซึ่งเป็นบรรณาธิกรณ์ข้อความที่สามารถปรับตาใจชอบได้ ทั้ง Electron และ Atom ได้เปิดเป็น open source ในฤดูใบไม้ผลิ ปี ค.ศ. 2014
 
 It has since become a popular tool used by open source developers, startups, and established companies. [See who is building on Electron](/apps).
 
@@ -47,11 +47,11 @@ New features added to Electron should primarily be native APIs. If a feature can
 
 Below are milestones in Electron's history.
 
-| :calendar: | :tada: |
-| --- | --- |
-| **April 2013**| [Atom Shell is started](https://github.com/electron/electron/commit/6ef8875b1e93787fa9759f602e7880f28e8e6b45).|
-| **May 2014** | [Atom Shell is open sourced](http://blog.atom.io/2014/05/06/atom-is-now-open-source.html). |
-| **April 2015** | [Atom Shell is re-named Electron](https://github.com/electron/electron/pull/1389). |
-| **May 2016** | [Electron releases `v1.0.0`](http://electron.atom.io/blog/2016/05/11/electron-1-0).|
-| **May 2016** | [Electron apps compatible with Mac App Store](http://electron.atom.io/docs/tutorial/mac-app-store-submission-guide).|
-| **August 2016** | [Windows Store support for Electron apps](http://electron.atom.io/docs/tutorial/windows-store-guide).|
+| :calendar:      | :tada:                                   |
+| --------------- | ---------------------------------------- |
+| **April 2013**  | [Atom Shell is started](https://github.com/electron/electron/commit/6ef8875b1e93787fa9759f602e7880f28e8e6b45). |
+| **May 2014**    | [Atom Shell is open sourced](http://blog.atom.io/2014/05/06/atom-is-now-open-source.html). |
+| **April 2015**  | [Atom Shell is re-named Electron](https://github.com/electron/electron/pull/1389). |
+| **May 2016**    | [Electron releases `v1.0.0`](http://electron.atom.io/blog/2016/05/11/electron-1-0). |
+| **May 2016**    | [Electron apps compatible with Mac App Store](http://electron.atom.io/docs/tutorial/mac-app-store-submission-guide). |
+| **August 2016** | [Windows Store support for Electron apps](http://electron.atom.io/docs/tutorial/windows-store-guide). |
